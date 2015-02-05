@@ -1,0 +1,58 @@
+/* Widgets */
+.swift p {
+	font-family: Geneva;
+	text-decoration: underline;
+	color: yellow;
+	line-height: 5px;
+	font-size: 30px;
+}
+
+.Emerald {
+	font-family: Charcoal;
+	font-size: 20px;
+}
+
+.Emerald p {
+	color: yellow;
+	font-family: Georgia;
+}
+
+.list {
+	font-family: Geneva;
+	font-size: 15px;
+	color: yellow;
+}
+
+.jumbotron {
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	border: solid;
+}
+
+.jumbotron h1 {
+	font-family: Geneva;
+	text-align: center;
+	font-size: 70px;
+	color: yellow;
+	border: underline;
+	line-height: 5px;
+}
+
+.bakchoy {
+	text-align: center;
+	float: center;
+	border: solid;
+}
+
+p {
+	color: red;
+	background-color;
+	text-align: center;
+}
+
+.clear {
+	float: none;
+	clear: both;
+}
